@@ -106,7 +106,7 @@ de_DE:
       demoted: "Teilnehmer wurde erfolgreich zurückgestuft "
       invite: "Einladung erfolgreich an %{email} geschickt"
       invite_email_verification: "E-Mail-Versand muss aktiviert sein, um diese Methode verwenden zu können. Bitte kontaktieren Sie Ihren Systemadministrator."
-      merge_fail: Beim Zusammenführen der Nutzerkonten ist ein Problem aufgetreten. Bitte überprüfen Sie die ausgewählten Nutzer und versuchen Sie es erneut 
+      merge_fail: Beim Zusammenführen der Nutzerkonten ist ein Problem aufgetreten. Bitte überprüfen Sie die ausgewählten Nutzer und versuchen Sie es erneut
       merge_success: Nutzerkonten erfolgreich zusammengeführt
       perm_deleted: Nutzer wurde dauerhaft gelöscht
       promoted: Teilnehmer wurde erfolgreich hochgestuft
@@ -136,7 +136,7 @@ de_DE:
       edit_site_settings: "Nutzern mit dieser Rolle erlauben, die Grundeinstellungen zu ändern"
       edit_roles: "Nutzern mit dieser Rolle erlauben, andere Rollen zu verändern"
       manage_users: "Nutzern mit dieser Rolle erlauben, andere Nutzer zu verwalten"
-      invalid_assignment: Es kam zu einem Problem bei der Zuweisung der Rollen zu einem Nutzer. Bitte prüfen Sie die Werte und versuchen Sie es erneut 
+      invalid_assignment: Es kam zu einem Problem bei der Zuweisung der Rollen zu einem Nutzer. Bitte prüfen Sie die Werte und versuchen Sie es erneut
       colour:
         title: Rollenfarbe
         info: "Die Farbe einstellen, die dieser Rolle zugewiesen wird"
@@ -262,7 +262,7 @@ de_DE:
   footer:
     legal: Impressum
     privpolicy: Datenschutzerklärung
-    powered_by: "Bereitgestellt durch %{href}."
+    powered_by: "Bereitgestellt durch Geeksrepubliq."
   forgot_password:
     subtitle: Passwort vergessen
     email: E-Mail
@@ -292,7 +292,7 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
+    about: "Geeksrepubliq ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
     welcome: Willkommen zu BigBlueButton.
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
@@ -473,7 +473,7 @@ de_DE:
       fail: "Ihr Konto wurde noch nicht freigeschaltet. Falls Sie sich bereits vor mehreren Tagen registriert haben, kontaktieren Sie bitte Ihren Administrator."
       signup: Ihr Konto wurde erfolgreich erstellt. Es wurde an einen Administrator zur Freigabe geschickt.
     banned:
-      fail: "Sie haben keinen Zugriff auf dieses Applikation. Falls Sie denken, dass hier ein Fehler vorliegt, kontaktieren Sie bitte Ihren Administrator." 
+      fail: "Sie haben keinen Zugriff auf dieses Applikation. Falls Sie denken, dass hier ein Fehler vorliegt, kontaktieren Sie bitte Ihren Administrator."
     deprecated:
       new_signin: Wählen Sie eine neue Loginmethode für Ihr Konto aus. Alle Ihre Räume und Ihr altes Konto werden auf einen neues Konto migriert.
       twitter_signin: "Das Einloggen über Twitter wird bald nicht mehr unterstützt und wird in einer zukünftigen Version ganz entfernt. Klicken Sie <a href=\"%{link}\"> hier </a> um Ihren Account auf eine neue Authentifizierungsmethode umzustellen"
@@ -574,11 +574,11 @@ de_DE:
     title: Registrieren
     with: "Registrieren mit %{provider}"
   terms:
-    accept: "Ich akzeptiere die %{href}"
+    accept: "Ich akzeptiere die Geeksrepubliq"
     accept_existing: Ich akzeptiere die Teilnahmebedingungen
     title: Allgemeine Nutzungsbedingungen
   test_install: >
-    Diese Installation verwendet einen vorkonfigurierten Testserver. Sie sollten diesen durch Ihren eigenen Server ersetzen. Weitere Informationen dazu unter %{href}.
+    Diese Installation verwendet einen vorkonfigurierten Testserver. Sie sollten diesen durch Ihren eigenen Server ersetzen. Weitere Informationen dazu unter Geeksrepubliq.
   update: Aktualisieren
   verify:
     accept: Verifizieren

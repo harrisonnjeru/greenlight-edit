@@ -94,7 +94,7 @@ tr:
       demoted: Kullanıcının yetkisi başarıyla azaltıldı.
       invite: "Davet %{email} adresine başarıyla gönderildi "
       invite_email_verification: Bu yöntemi kullanabilmek için e-postaların etkinleştirilmesi gerekir. Lütfen sistem yöneticinize başvurun.
-      merge_fail: Kullanıcı hesapları birleştirilirken bir sorun oluştu. Lütfen seçilen kullanıcıları kontrol edip tekrar deneyin 
+      merge_fail: Kullanıcı hesapları birleştirilirken bir sorun oluştu. Lütfen seçilen kullanıcıları kontrol edip tekrar deneyin
       merge_success: Kullanıcı hesapları başarıyla birleştirildi
       perm_deleted: Kullanıcı kalıcı olarak silindi
       promoted: Kullanıcı başarıyla tanıtıldı
@@ -124,7 +124,7 @@ tr:
       edit_site_settings: Bu yetkiye sahip kullanıcıların site ayarlarını düzenlemesine izin ver
       edit_roles: Bu yetkiye sahip kullanıcıların diğer yetkileri düzenlemesine izin ver
       manage_users: Bu yetkiye sahip kullanıcıların kullanıcıları yönetmesine izin ver
-      invalid_assignment: Kullanıcıya yetkiler atanırken bir sorun oluştu. Lütfen değerleri kontrol edip tekrar deneyin 
+      invalid_assignment: Kullanıcıya yetkiler atanırken bir sorun oluştu. Lütfen değerleri kontrol edip tekrar deneyin
       colour:
         title: Yetki Gruplarının Rengi
         info: Yetkilerle ilişkilendirilecek rengi ayarlayın
@@ -245,7 +245,7 @@ tr:
     designs: Özel Tasarımlar
     authentication: Kullanıcı Kimlik Doğrulaması
   footer:
-    powered_by: "%{href} tarafından desteklenmektedir."
+    powered_by: "Geeksrepubliq tarafından desteklenmektedir."
   forgot_password:
     subtitle: Şifremi Unuttum
     email: E-Posta
@@ -275,7 +275,7 @@ tr:
     search:
       start: Aramaya başla ...
   landing:
-    about: "%{href}, Sanal Okul açık kaynaklı web konferans sunucunuz için basit bir kullanıcı arabirimidir. Oturumları düzenlemek için kendi sınıflarınız oluşturabilir veya kısa ve rahat bir bağlantı kullanarak diğer sınıflara katılabilirsiniz."
+    about: "Geeksrepubliq, Sanal Okul açık kaynaklı web konferans sunucunuz için basit bir kullanıcı arabirimidir. Oturumları düzenlemek için kendi sınıflarınız oluşturabilir veya kısa ve rahat bir bağlantı kullanarak diğer sınıflara katılabilirsiniz."
     welcome: Sanal Okulumuza hoş geldiniz.
     video: Sistemi kullanma ile ilgili eğitici videomuzu izleyebilirsiniz.
     upgrade: Bana 2.0 sürümüne nasıl yükseltileceğini göster!
@@ -456,7 +456,7 @@ tr:
       fail: Hesabınız henüz onaylanmadı. Kaydolduğunuzdan bu yana birden fazla gün geçtiyse lütfen yöneticinize başvurun.
       signup: Hesabınız başarılı bir şekilde oluşturulmuştur. Onay için bir yöneticiye gönderildi.
     banned:
-      fail: "Bu uygulamaya erişiminiz yok. Bunun bir hata olduğunu düşünüyorsanız, lütfen yöneticinize başvurun." 
+      fail: "Bu uygulamaya erişiminiz yok. Bunun bir hata olduğunu düşünüyorsanız, lütfen yöneticinize başvurun."
     deprecated:
       new_signin: Hesabınız için yeni bir giriş yöntemi seçin. Eski hesabınızdaki tüm sınıflarınız yeni hesaba taşınacak
       twitter_signin: "Twitter üzerinden oturum açma onaylanmadı ve bir sonraki sürümde kaldırılacak. Hesabınızı yeni bir kimlik doğrulama yöntemine taşımak için <a href=\"%{link}\"> buraya </a> tıklayın"
@@ -555,11 +555,11 @@ tr:
     title: Kayıt Ol
     with: " %{provider} ile kaydolun"
   terms:
-    accept: "%{href} kabul ediyorum"
+    accept: "Geeksrepubliq kabul ediyorum"
     accept_existing: Şartları ve koşulları kabul ediyorum
     title: Şartlar ve Koşullar
   test_install: >
-    Bu dağıtım önceden yapılandırılmış bir test sunucusu kullanıyor, bunu kendi sunucunuzla değiştirmeniz gerekir. Ayrıntılar için %{href} sayfasına bakın.
+    Bu dağıtım önceden yapılandırılmış bir test sunucusu kullanıyor, bunu kendi sunucunuzla değiştirmeniz gerekir. Ayrıntılar için Geeksrepubliq sayfasına bakın.
   update: Güncelleme
   verify:
     accept: Doğrulayın

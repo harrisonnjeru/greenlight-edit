@@ -106,7 +106,7 @@ ja_JP:
       demoted: ユーザが降格されました
       invite: "%{email} に招待状を送信しました"
       invite_email_verification: この方法を使用するには、メールを有効にする必要があります。 システム管理者にお問い合わせください。
-      merge_fail: ユーザアカウントのマージ中に問題が発生しました。 選択したユーザを確認して、もう一度お試しください 
+      merge_fail: ユーザアカウントのマージ中に問題が発生しました。 選択したユーザを確認して、もう一度お試しください
       merge_success: ユーザアカウントがマージされました
       perm_deleted: ユーザが完全に削除されました
       promoted: ユーザが昇格しました
@@ -136,7 +136,7 @@ ja_JP:
       edit_site_settings: サイト設定の編集権
       edit_roles: 役割の編集権
       manage_users: ユーザの管理権
-      invalid_assignment: ユーザへの役割設定中に問題が発生しました。 設定を確認して再度お試しください 
+      invalid_assignment: ユーザへの役割設定中に問題が発生しました。 設定を確認して再度お試しください
       colour:
         title: 役割の色
         info: 役割に関連付ける色を設定します
@@ -262,7 +262,7 @@ ja_JP:
   footer:
     legal: 利用規約
     privpolicy: プライバシーポリシー
-    powered_by: "フロントエンド %{href}"
+    powered_by: "フロントエンド Geeksrepubliq"
   forgot_password:
     subtitle: パスワードを忘れた場合
     email: メールアドレス
@@ -292,7 +292,7 @@ ja_JP:
     search:
       start: 検索開始...
   landing:
-    about: "%{href}は、オープンソースWeb会議サーバ BigBlueButton のシンプルなフロントエンドです。 自分の会議室を作成してセッションを主催したり、簡単なリンクを使用して他のユーザが参加したりできます。"
+    about: "Geeksrepubliqは、オープンソースWeb会議サーバ BigBlueButton のシンプルなフロントエンドです。 自分の会議室を作成してセッションを主催したり、簡単なリンクを使用して他のユーザが参加したりできます。"
     welcome: BigBlueButton へようこそ
     video: Greenlightの使い方に関するチュートリアルを見る
     upgrade: 2.0にアップグレードする方法を教えて！
@@ -473,7 +473,7 @@ ja_JP:
       fail: あなたのアカウントはまだ承認されていません。 サインアップしてから数日が経過した場合は、管理者に連絡してください。
       signup: アカウントが作成されました。 承認のために管理者に送信されました。
     banned:
-      fail: このアプリケーションにアクセスできません。 これが間違いだと思われる場合は、管理者に連絡してください。 
+      fail: このアプリケーションにアクセスできません。 これが間違いだと思われる場合は、管理者に連絡してください。
     deprecated:
       new_signin: アカウントの新しいログイン方法を選択します。 古いアカウントの会議室はすべて新しいアカウントに移行されます。
       twitter_signin: "Twitter経由でのサインインは非推奨となっており、次のリリースで削除される予定です。<a href=\"%{link}\">ここ</a>をクリックして、アカウントを新しい認証方法に移行してください"
@@ -574,11 +574,11 @@ ja_JP:
     title: サインアップ
     with: "%{provider} でサインアップ"
   terms:
-    accept: "%{href} を受け入れます"
+    accept: "Geeksrepubliq を受け入れます"
     accept_existing: 利用規約に同意します
     title: 利用規約
   test_install: >
-    この構成では、事前に構成されたテストサーバを使用しています。これを独自のものに置き換える必要があります。 詳細については %{href} をご覧ください。
+    この構成では、事前に構成されたテストサーバを使用しています。これを独自のものに置き換える必要があります。 詳細については Geeksrepubliq をご覧ください。
   update: 更新
   verify:
     accept: 確認

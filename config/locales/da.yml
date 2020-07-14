@@ -106,7 +106,7 @@ da:
       demoted: Bruger er blevet nedrykket med succes
       invite: "Invitation er blevet sendt til %{email} med succes."
       invite_email_verification: Emails skal være slået til for at kunne anvende denne metode. Kontakt venligst din system administrator.
-      merge_fail: Der var et problem med sammensmeltningen af brugerkonti. Tjek venligst de valgte brugere og prøv igen. 
+      merge_fail: Der var et problem med sammensmeltningen af brugerkonti. Tjek venligst de valgte brugere og prøv igen.
       merge_success: Brugerkonti blev fusioneret med succes.
       perm_deleted: Bruger blev slettet permanent med succes
       promoted: Bruger er blevet forfremmet med succes
@@ -136,7 +136,7 @@ da:
       edit_site_settings: Tillad brugere med denne rolle at redigere sideindstillinger
       edit_roles: Tillad brugere med denne rolle at redigere andre roller
       manage_users: Tillad brugere med denne rolle at styre brugere
-      invalid_assignment: "Der var et problem med at give rollen til brugeren. Tjek venligst indstillingerne, og prøv igen." 
+      invalid_assignment: "Der var et problem med at give rollen til brugeren. Tjek venligst indstillingerne, og prøv igen."
       colour:
         title: Rolle Farve
         info: Tilføj farven som vil blive tilføjet til rollen
@@ -262,7 +262,7 @@ da:
   footer:
     legal: Juridisk
     privpolicy: Privatlivspolitik
-    powered_by: "Lavet af %{href}."
+    powered_by: "Lavet af Geeksrepubliq."
   forgot_password:
     subtitle: Glemt Adgangskode
     email: Email
@@ -292,7 +292,7 @@ da:
     search:
       start: Start søgning...
   landing:
-    about: "%{href} er et simpelt front-end system til BigBlueButton open-source web konference server. Du kan oprette dine egne rum og hoste sessioner, eller tilslutte andre ved brug af korte og nemme links."
+    about: "Geeksrepubliq er et simpelt front-end system til BigBlueButton open-source web konference server. Du kan oprette dine egne rum og hoste sessioner, eller tilslutte andre ved brug af korte og nemme links."
     welcome: Velkommen til BigBlueButton.
     video: Se vores vejledninger om hvordan man bruger Greenlight
     upgrade: Vis mig hvordan man opgradere til 2.0!
@@ -473,7 +473,7 @@ da:
       fail: "Din konto er ikke godkendt endnu. Hvis der er gået flere dage, siden du tilmeldte dig, skal du kontakte din administrator."
       signup: Din konto blev oprettet. Det er sendt til en administrator til godkendelse.
     banned:
-      fail: "Du har ikke adgang til denne applikation. Hvis du mener, at dette er en fejl, skal du kontakte din administrator." 
+      fail: "Du har ikke adgang til denne applikation. Hvis du mener, at dette er en fejl, skal du kontakte din administrator."
     deprecated:
       new_signin: Vælg en ny login-metode til din konto. Alle dine rum fra din gamle konto fusioneres til den nye konto
       twitter_signin: "Log ind via Twitter er blevet forældet og vil blive fjernet i den næste udgivelse. Klik <a href=\"%{link}\"> her </a> for at flytte din konto til en ny godkendelsesmetode"
@@ -574,11 +574,11 @@ da:
     title: Opret Konto
     with: "Log ind med %{provider}"
   terms:
-    accept: "Jeg accepterer %{href}"
+    accept: "Jeg accepterer Geeksrepubliq"
     accept_existing: Jeg accepterer regler og betingelserne
     title: Regler og Betingelser
   test_install: >
-    Denne installation bruger en forudkonfigureret testserver, du skal erstatte denne med din egen. For detaljer, se %{href}.
+    Denne installation bruger en forudkonfigureret testserver, du skal erstatte denne med din egen. For detaljer, se Geeksrepubliq.
   update: Opdater
   verify:
     accept: Bekræft

@@ -94,7 +94,7 @@ zh_TW:
       demoted: 使用者已成功降級
       invite: "邀請已成功寄送到 %{email}"
       invite_email_verification: 必須啟用電子郵件才能使用此方法，請與系統管理員聯繫。
-      merge_fail: 合併使用者帳戶時出現問題，請檢查選定的使用者並重試。 
+      merge_fail: 合併使用者帳戶時出現問題，請檢查選定的使用者並重試。
       merge_success: 使用者帳戶成功合併
       perm_deleted: 使用者已被永久刪除
       promoted: 使用者已成功升級
@@ -123,7 +123,7 @@ zh_TW:
       edit_site_settings: 允許具有此角色的使用者編輯網站設定
       edit_roles: 允許具有此角色的使用者編輯其他角色
       manage_users: 允許具有此角色的使用者管理使用者
-      invalid_assignment: 將角色分配給使用者時出現問題，請檢查賦值並重試。 
+      invalid_assignment: 將角色分配給使用者時出現問題，請檢查賦值並重試。
       colour:
         title: 角色代表顏色
         info: 設定將與角色關聯的顏色
@@ -229,7 +229,7 @@ zh_TW:
     designs: 定制設計
     authentication: 使用者認證
   footer:
-    powered_by: "Powered by%{href}"
+    powered_by: "Powered byGeeksrepubliq"
   forgot_password:
     subtitle: 忘記密碼
     email: Email
@@ -259,7 +259,7 @@ zh_TW:
     search:
       start: 開始搜尋...
   landing:
-    about: "%{href} 是開源線上會議系統「BigBlueButton」的簡易前端，您可以創建並主持會議，或通過連結加入他人建立的會議室。"
+    about: "Geeksrepubliq 是開源線上會議系統「BigBlueButton」的簡易前端，您可以創建並主持會議，或通過連結加入他人建立的會議室。"
     welcome: 歡迎來到BigBlueButton線上會議系統
     video: 請看使用說明
     upgrade: 告訴我怎麼升級到 2.0!
@@ -440,7 +440,7 @@ zh_TW:
       fail: 您的帳戶尚未批准，如果您註冊後已過多天，請與管理員聯繫。
       signup: 您的帳戶創建完成，稍後管理員會審批。
     banned:
-      fail: 您沒有訪問此應用程式的許可權。如果您認為這是一個錯誤，請聯繫您的管理員。 
+      fail: 您沒有訪問此應用程式的許可權。如果您認為這是一個錯誤，請聯繫您的管理員。
     deprecated:
       new_signin: 為您的帳戶選擇新的登錄方法。舊帳戶中的所有會議室都將遷移到新帳戶。
       twitter_signin: "通過Twitter登錄已被棄用並將在下一版本中刪除。 點擊 <a href=\"%{link}\"> 這裡 </a> 將您的帳戶移動到新的身份驗證方法。"
@@ -539,11 +539,11 @@ zh_TW:
     title: 註冊
     with: "通過%{provider}註冊"
   terms:
-    accept: "我同意%{href}"
+    accept: "我同意Geeksrepubliq"
     accept_existing: 我接受協議和條款。
     title: 協議和條款
   test_install: >
-    此部署使用的是預先配置的測試伺服器，您應該將其替換為自己的，詳細資訊請看 %{href}。
+    此部署使用的是預先配置的測試伺服器，您應該將其替換為自己的，詳細資訊請看 Geeksrepubliq。
   update: 更新
   verify:
     accept: 驗證

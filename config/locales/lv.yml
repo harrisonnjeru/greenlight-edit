@@ -94,7 +94,7 @@ lv:
       demoted: Lietotāja loma ir pazemināta
       invite: "Uzaicinājums sekmīgi nosūtīts uz %{email}"
       invite_email_verification: "Lai izmantotu šo metodi, jāiespējo e-pasta paziņojumi. Sazinieties ar sistēmas administratoru."
-      merge_fail: "Apvienojot lietotāju kontus, radās kļūme. Pārbaudiet izvēlētos lietotājus un mēģiniet vēlreiz" 
+      merge_fail: "Apvienojot lietotāju kontus, radās kļūme. Pārbaudiet izvēlētos lietotājus un mēģiniet vēlreiz"
       merge_success: Lietotāja konti tika sekmīgi apvienoti
       perm_deleted: Lietotājs tika neatgriezeniski (bez atgriešanas iespējas) izdzēsts
       promoted: Lietotāja loma paaugstināta
@@ -123,7 +123,7 @@ lv:
       edit_site_settings: Lietotājiem ar šo lomu ļaut rediģēt vietnes iestatījumus
       edit_roles: Lietotājiem ar šo lomu ļaut rediģēt citas lomas
       manage_users: Lietotājiem ar šo lomu ļaut pārvaldīt lietotājus
-      invalid_assignment: "Piešķirot lomu lietotājam, gadījās ķibele. Lūdzu, pārbaudiet vērtības un mēģiniet vēlreiz" 
+      invalid_assignment: "Piešķirot lomu lietotājam, gadījās ķibele. Lūdzu, pārbaudiet vērtības un mēģiniet vēlreiz"
       colour:
         title: Lomas krāsa
         info: Iestatiet šai lomai krāsu
@@ -230,7 +230,7 @@ lv:
     designs: Pielāgots izskats
     authentication: Lietotāju kontrole
   footer:
-    powered_by: "Darbina %{href}."
+    powered_by: "Darbina Geeksrepubliq."
   forgot_password:
     subtitle: Aizmirsu paroli
     email: E-pasts
@@ -260,7 +260,7 @@ lv:
     search:
       start: Sākam meklēšanu ...
   landing:
-    about: "%{href} ir atklātā koda video sapulču servera BigBlueButton vienkārša saskarne (gui). Izmantojot īsu un ērtu saiti, varat izveidot savas video sapulču telpas, rīkot video sapulces vai piedalīties citu rīkotās."
+    about: "Geeksrepubliq ir atklātā koda video sapulču servera BigBlueButton vienkārša saskarne (gui). Izmantojot īsu un ērtu saiti, varat izveidot savas video sapulču telpas, rīkot video sapulces vai piedalīties citu rīkotās."
     welcome: Laipni lūgti video sapulču serverī BigBlueButton!
     video: Iepazīstieties ar Greenlight videopamācību
     upgrade: "Parādiet man, kā versiju paaugstināt uz 2.0!"
@@ -441,7 +441,7 @@ lv:
       fail: "Jūsu konts vēl nav apstiprināts. Ja pēc reģistrācijas ir pagājušas vairākas dienas, sazinieties ar administratoru."
       signup: Jūsu konts ir sekmīgi izveidots. Paziņojums ir nosūtīts apstiprināšanai administratoram.
     banned:
-      fail: "Jums nav piekļuves lietotnei. Ja esat pārliecināti, ka tā ir kļūme, lūdzu, sazinieties ar administratoru." 
+      fail: "Jums nav piekļuves lietotnei. Ja esat pārliecināti, ka tā ir kļūme, lūdzu, sazinieties ar administratoru."
     deprecated:
       new_signin: Izvēlieties savam kontam jaunu ierakstīšanās metodi. Visas vecā konta telpas tiks pārceltas uz jauno kontu.
       twitter_signin: "Ierakstīšanās, izmantojot Twitter, ir novecojusi, un nākotnē tā tiks noņemta. Dodieties uz <a href=\\\"%{link}\\\"> šejieni </a>, lai mainītu sava konta autentifikācijas metodi."
@@ -540,11 +540,11 @@ lv:
     title: Reģistrēties
     with: "Reģistrēties, izmantojot %{provider}"
   terms:
-    accept: "Es piekrītu %{href}"
+    accept: "Es piekrītu Geeksrepubliq"
     accept_existing: Es piekrītu noteikumiem un nosacījumiem
     title: Noteikumi un nosacījumi
   test_install: >
-    Pašreiz Jūs izmantojat iepriekš konfigurētu testa serveri, kurš ir jāaizstāj ar jūsu pašu serveri. Lai iegūtu papildinformāciju, skat. %{href}.
+    Pašreiz Jūs izmantojat iepriekš konfigurētu testa serveri, kurš ir jāaizstāj ar jūsu pašu serveri. Lai iegūtu papildinformāciju, skat. Geeksrepubliq.
   update: Aktualizēt/Atsvaidzināt
   verify:
     accept: Verificēt (apstiprināt)

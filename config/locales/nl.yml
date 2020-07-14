@@ -106,7 +106,7 @@ nl:
       demoted: Gebruiker is succesvol gedegradeerd
       invite: "Uitnodiging succesvol verzonden naar %{email}"
       invite_email_verification: E-mails moeten ingeschakeld zijn om deze methode te gebruiken. Neem contact op met uw systeembeheerder.
-      merge_fail: Er is een probleem opgetreden bij het samenvoegen van de gebruikersaccounts. Controleer de geselecteerde gebruikers en probeer het opnieuw 
+      merge_fail: Er is een probleem opgetreden bij het samenvoegen van de gebruikersaccounts. Controleer de geselecteerde gebruikers en probeer het opnieuw
       merge_success: Gebruikersaccounts succesvol samengevoegd
       perm_deleted: Gebruiker is permanent verwijderd
       promoted: Gebruiker is succesvol gepromoveerd
@@ -136,7 +136,7 @@ nl:
       edit_site_settings: Gebruikers met deze rol toestaan ​​om site-instellingen te bewerken
       edit_roles: Gebruikers met deze rol toestaan ​​andere rollen te bewerken
       manage_users: Gebruikers met deze rol toestaan ​​gebruikers te beheren
-      invalid_assignment: Er is een probleem opgetreden bij het toewijzen van de rollen aan de gebruiker. Controleer de waarden en probeer het opnieuw 
+      invalid_assignment: Er is een probleem opgetreden bij het toewijzen van de rollen aan de gebruiker. Controleer de waarden en probeer het opnieuw
       colour:
         title: Rol kleur
         info: Stel de kleur in die aan de rol wordt gekoppeld
@@ -262,7 +262,7 @@ nl:
   footer:
     legal: Juridisch
     privpolicy: Privacy Beleid
-    powered_by: "Mogelijk gemaakt door %{href}."
+    powered_by: "Mogelijk gemaakt door Geeksrepubliq."
   forgot_password:
     subtitle: Wachtwoord vergeten
     email: E-mail
@@ -292,7 +292,7 @@ nl:
     search:
       start: Begin zoekopdracht
   landing:
-    about: "%{href} is een eenvoudige front-end voor uw BigBlueButton open-source webconferentieserver. U kunt uw eigen ruimtes maken om sessies te hosten of u kunt via een korte en handige link lid worden van anderen."
+    about: "Geeksrepubliq is een eenvoudige front-end voor uw BigBlueButton open-source webconferentieserver. U kunt uw eigen ruimtes maken om sessies te hosten of u kunt via een korte en handige link lid worden van anderen."
     welcome: Welkom bij BigBlueButton.
     video: Bekijk onze tutorial over het gebruik van Greenlight
     upgrade: Laat me zien hoe ik kan upgraden naar 2.0!
@@ -473,7 +473,7 @@ nl:
       fail: Uw account is nog niet goedgekeurd. Neem contact op met uw beheerder als er meerdere dagen zijn verstreken sinds u zich heeft geregistreerd.
       signup: Uw account is succesvol aangemaakt. Het is ter goedkeuring naar een beheerder verzonden.
     banned:
-      fail: U hebt geen toegang tot deze applicatie. Neem contact op met uw beheerder als u denkt dat dit een vergissing is. 
+      fail: U hebt geen toegang tot deze applicatie. Neem contact op met uw beheerder als u denkt dat dit een vergissing is.
     deprecated:
       new_signin: Selecteer een nieuwe inlogmethode voor uw account. Al uw kamers van uw oude account worden gemigreerd naar het nieuwe account
       twitter_signin: "Inloggen via Twitter is verouderd en wordt in de volgende release verwijderd. Klik <a href=\"%{link}\"> hier </a> om uw account naar een nieuwe authenticatiemethode te verplaatsen"
@@ -574,11 +574,11 @@ nl:
     title: Registreren
     with: "Meld u aan bij %{provider}"
   terms:
-    accept: "Ik accepteer de %{href}"
+    accept: "Ik accepteer de Geeksrepubliq"
     accept_existing: Ik accepteer de algemene voorwaarden
     title: Voorwaarden
   test_install: >-
-    Deze implementatie maakt gebruik van een vooraf geconfigureerde testserver, deze moet u vervangen door uw eigen. Zie de %{href} voor meer informatie.
+    Deze implementatie maakt gebruik van een vooraf geconfigureerde testserver, deze moet u vervangen door uw eigen. Zie de Geeksrepubliq voor meer informatie.
   update: Bijwerken
   verify:
     accept: Verifiëren
